@@ -18,8 +18,8 @@ My personal collections of various references for learning VueJS. TamVuean Refer
 * [Scotch - Build Nested Comment App With Vue JS and Laravel - Part 2](https://pub.scotch.io/@jagadeshanh/build-nested-commenting-system-using-laravel-and-vuejs-part-2) :uk: :notebook:
 * [Scotch - Build Nested Comment App With Vue JS and Laravel - Part 3](https://pub.scotch.io/@jagadeshanh/build-nested-commenting-system-using-laravel-and-vuejs-part-3) :uk: :notebook:
 * [Scotch - How to Create a Comment System with Laravel 5.3 and Vue JS](https://pub.scotch.io/@tomiiide/how-to-create-a-comment-system-with-laravel-53-and-vuejs) :uk: :notebook:
-* [Auth0 - Create an App in Vue JS 2](https://auth0.com/blog/create-an-app-in-vuejs-2/)
-* [Medium - Vue JS Pokemon Battle](https://medium.com/@michaelmangial1/vue-js-pokemon-battle-tutorial-380cd72eb681#.zbtiw9e5c)
+* [Auth0 - Create an App in Vue JS 2](https://auth0.com/blog/create-an-app-in-vuejs-2/) :uk: :notebook:
+* [Medium - Vue JS Pokemon Battle](https://medium.com/@michaelmangial1/vue-js-pokemon-battle-tutorial-380cd72eb681#.zbtiw9e5c) :uk: :notebook:
 * [Image Slider VueJS Tutorial](http://matthiashager.com/blog/image-slider-vuejs-tutorial) :uk::notebook:
 * [Udemy - Vue JS 2 The Complete Guide (Incl. Vuex)](https://www.udemy.com/vuejs-2-the-complete-guide/) :uk: :tv: :dollar:
 * [Udemy - (Learning by Doing) Vue JS 2 the Right Way ](https://www.udemy.com/learn-by-doing-vue-js-2-the-right-way/) :uk: :tv: :dollar:
