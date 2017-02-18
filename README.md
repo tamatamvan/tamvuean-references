@@ -7,13 +7,32 @@ My personal collections of various references for learning VueJS. TamVuean Refer
 ## Documentations :blue_book:
 * [VueJS Official Documentation](https://vuejs.org/v2/guide/)
 * [Awesome Vue - A curated list of cool and awesome stuffs about VueJS](https://github.com/vuejs/awesome-vue)
+* [DevDocs - Vue 2](http://devdocs.io/vue~2/)
+
+## Websites :earth_asia:
+* [VueJS Official Website](https://vuejs.org) :uk:
+* [vueJS Feed](https://vuejsfeed.com) :uk:
+* [VueJS Tips](http://vuetips.com/) :uk:
+* [Vue JS Newsletter](https://www.getrevue.co/profile/vuenewsletter) :uk:
+* [Vue Newsletter](http://vue-newsletter.com/) :uk:
+* [VueJS Examples](http://vuejsexamples.com/) :uk:
+
+## Social Forums & Communities 
+* [Facebook - Vue JS Developers](https://web.facebook.com/groups/vuejsdevelopers/)
+* [Reddit - Vue JS](https://www.reddit.com/r/vuejs/)
 
 ## Tutorials & Courses :computer:
 * [Sekolah Koding - Vue JS Tutorials](https://www.sekolahkoding.com/kelas/tag/vue) :id: :tv:
 * [Laracast - Vue 2 Step by Step](https://laracasts.com/series/learn-vue-2-step-by-step/) :uk: :tv:
+* [Egghead - Develop Web Apps with Vue JS](https://egghead.io/courses/develop-web-apps-with-vue-js) :uk :tv:
+* [CSS Tricks - Intro to Vue JS](https://css-tricks.com/intro-to-vue-2-components-props-slots/) :uk: :notebook:
+* [Codementor - Getting Started with VueJS](https://www.codementor.io/javascript/tutorial/getting-started-with-vuejs) :uk: :notebook:
+* [Codeship - Upand Running with VueJS](https://blog.codeship.com/up-and-running-with-vue-js/) :uk: :notebook:
 * [SitePoint - Up and Running Vue JS 2.0](https://www.sitepoint.com/up-and-running-vue-js-2-0/) :uk: :notebook:
 * [Vue JS Feed - Vue JS Tutorials](https://vuejsfeed.com/blog/vue-js-tutorials) :uk: :notebook:
 * [Tutorialzine - Building your first app with Vue JS](http://tutorialzine.com/2016/08/building-your-first-app-with-vue-js/) :uk: :notebook:
+* [appendto - Vue.js’s Single File Components: Keeping It All In One Place](https://appendto.com/2017/02/vue-jss-single-file-components-keeping-it-all-in-one-place-2/) :uk: :notebook:
+* [Sebastian De Deyne - Dealing With Templates in vue 2.0](https://sebastiandedeyne.com/posts/2016/dealing-with-templates-in-vue-20) :uk: :notebook:
 * [Scotch - Build Nested Comment App With Vue JS and Laravel - Part 1](https://pub.scotch.io/@jagadeshanh/build-nested-commenting-system-using-laravel-and-vuejs-part-1) :uk: :notebook:
 * [Scotch - Build Nested Comment App With Vue JS and Laravel - Part 2](https://pub.scotch.io/@jagadeshanh/build-nested-commenting-system-using-laravel-and-vuejs-part-2) :uk: :notebook:
 * [Scotch - Build Nested Comment App With Vue JS and Laravel - Part 3](https://pub.scotch.io/@jagadeshanh/build-nested-commenting-system-using-laravel-and-vuejs-part-3) :uk: :notebook:
@@ -27,6 +46,16 @@ My personal collections of various references for learning VueJS. TamVuean Refer
 * [Udemy - Learn Vue JS Introduction to Simple Reactive JavaScript ](https://www.udemy.com/learn-vue-js-introduction-to-simple-reactive-javascript/) :uk: :tv: :dollar:
 
 ## Articles and other reading materials :books:
+* [GitLab - Why We Chose Vue](https://about.gitlab.com/2016/10/20/why-we-chose-vue/) :uk:
+* [VueJS - Thought Works - Tech Radar](https://www.thoughtworks.com/radar/languages-and-frameworks/vue-js) :uk:
+* [Pixeljets - Why We Chose VueJS Over React](http://pixeljets.com/blog/why-we-chose-vuejs-over-react/) :uk:
+* [Vincit Blog - First Impression on VueJS](https://www.vincit.fi/en/blog/first-impressions-vue-js-2-0/) :uk:
+* [Blog Debugme - Why Vue JS ?](http://blog.debugme.eu/why-vue-js/)
+* [Remme Le Hane - VueJS: First Impressions](https://hackernoon.com/vuejs-first-impressions-ef59822e94e6#.y0lp7nyo4) :uk:
+* [7 Reasons to use Vue JS](https://www.popart.com/2016/06/02/7-reasons-to-use-vue-js/) :uk:
+* [DZone - VueJs is Good, but  is it better than angular or react](https://dzone.com/articles/vuejs-is-good-but-is-it-better-than-angular-or-rea) :uk:
+* [ycombinator - Why We Chose Vue Over React](https://news.ycombinator.com/item?id=13151317) :uk:
+* [Shawn Wildermuth - Why I moved to Vue.JS from Angular 2](https://wildermuth.com/2017/02/12/Why-I-Moved-to-Vue-js-from-Angular-2) :uk:
 * [Why Vue 2 Beats Angular 2 and react](https://medium.com/@codingfriend/why-vue-2-beats-angular-2-and-react-cfb709b92c59#.1qgwgst0h) :uk:
 * [Love at First Vue](https://medium.com/@osman.sist/love-at-first-vue-1f154c9241b7) :uk:
 * [Vue You Gonna Call](https://medium.com/@barooney/vue-you-gonna-call-3b103be08180#.b22l0rysj) :uk:
