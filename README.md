@@ -8,6 +8,7 @@ My personal collections of various references for learning VueJS. TamVuean Refer
 * [VueJS Official Documentation](https://vuejs.org/v2/guide/)
 * [Awesome Vue - A curated list of cool and awesome stuffs about VueJS](https://github.com/vuejs/awesome-vue)
 * [DevDocs - Vue 2](http://devdocs.io/vue~2/)
+* [Awesome Vue](https://github.com/vuejs/awesome-vue)
 
 ## Websites :earth_asia:
 * [VueJS Official Website](https://vuejs.org) :uk:
