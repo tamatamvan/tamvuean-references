@@ -20,6 +20,7 @@ My personal collections of various references for learning VueJS. TamVuean Refer
 ## Social Forums & Communities 
 * [Facebook - Vue JS Developers](https://web.facebook.com/groups/vuejsdevelopers/)
 * [Reddit - Vue JS](https://www.reddit.com/r/vuejs/)
+* [Giiter Chat - Vue JS](https://gitter.im/vuejs/vue)
 
 ## Tutorials & Courses :computer:
 * [Sekolah Koding - Vue JS Tutorials](https://www.sekolahkoding.com/kelas/tag/vue) :id: :tv:
