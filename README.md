@@ -57,9 +57,13 @@ My personal collections of various references for learning VueJS. TamVuean Refer
 * [DZone - VueJs is Good, but  is it better than angular or react](https://dzone.com/articles/vuejs-is-good-but-is-it-better-than-angular-or-rea) :uk:
 * [ycombinator - Why We Chose Vue Over React](https://news.ycombinator.com/item?id=13151317) :uk:
 * [Shawn Wildermuth - Why I moved to Vue.JS from Angular 2](https://wildermuth.com/2017/02/12/Why-I-Moved-to-Vue-js-from-Angular-2) :uk:
-* [Why Vue 2 Beats Angular 2 and react](https://medium.com/@codingfriend/why-vue-2-beats-angular-2-and-react-cfb709b92c59#.1qgwgst0h) :uk:
-* [Love at First Vue](https://medium.com/@osman.sist/love-at-first-vue-1f154c9241b7) :uk:
-* [Vue You Gonna Call](https://medium.com/@barooney/vue-you-gonna-call-3b103be08180#.b22l0rysj) :uk:
+* [Medium - Why Vue 2 Beats Angular 2 and react](https://medium.com/@codingfriend/why-vue-2-beats-angular-2-and-react-cfb709b92c59#.1qgwgst0h) :uk:
+* [Quora - Who uses Vue.js](https://www.quora.com/Who-uses-vue-js) :uk:
+* [Hackernoon - Vue vs React](https://hackernoon.com/vue-vs-react-254a874d74ab#.aypht7hx3) :uk:
+* [Dreaming of Code - Vue.js vs React.js](https://rlafranchi.github.io/2016/05/03/vue-vs-react/) :uk:
+* [Quora - Is Vue.js worth learning when there is already Angular.js and Ember.js?](https://www.quora.com/Is-Vue-js-worth-learning-when-there-is-already-Angular-js-and-Ember-js) :uk:
+* [Medium - Love at First Vue](https://medium.com/@osman.sist/love-at-first-vue-1f154c9241b7) :uk:
+* [Medium - Vue You Gonna Call](https://medium.com/@barooney/vue-you-gonna-call-3b103be08180#.b22l0rysj) :uk:
 * [React or Vue: Which Javascript UI Library Should You Be Using?](ipt-ui-library-should-you-be-using-543a383608d#.sw87dxfiu) :uk:
 * [4 Things Vue JS got right](https://medium.com/js-dojo/4-things-vue-js-got-right-10820cc84004#.1lyr3mu12) :uk:
 * [Evan You's Comment on 'React or Vue' Articles](https://medium.com/@youyuxi/pretty-good-comparison-overall-but-a-few-points-id-like-to-discuss-e4f6460e75d5#.l1ahbm417) :uk:
