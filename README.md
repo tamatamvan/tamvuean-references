@@ -25,7 +25,7 @@ My personal collections of various references for learning VueJS. TamVuean Refer
 ## Tutorials & Courses :computer:
 * [Sekolah Koding - Vue JS Tutorials](https://www.sekolahkoding.com/kelas/tag/vue) :id: :tv:
 * [Laracast - Vue 2 Step by Step](https://laracasts.com/series/learn-vue-2-step-by-step/) :uk: :tv:
-* [Egghead - Develop Web Apps with Vue JS](https://egghead.io/courses/develop-web-apps-with-vue-js) :uk :tv:
+* [Egghead - Develop Web Apps with Vue JS](https://egghead.io/courses/develop-web-apps-with-vue-js) :uk: :tv:
 * [CSS Tricks - Intro to Vue JS](https://css-tricks.com/intro-to-vue-2-components-props-slots/) :uk: :notebook:
 * [Codementor - Getting Started with VueJS](https://www.codementor.io/javascript/tutorial/getting-started-with-vuejs) :uk: :notebook:
 * [Codeship - Upand Running with VueJS](https://blog.codeship.com/up-and-running-with-vue-js/) :uk: :notebook:
@@ -38,6 +38,9 @@ My personal collections of various references for learning VueJS. TamVuean Refer
 * [Scotch - Build Nested Comment App With Vue JS and Laravel - Part 2](https://pub.scotch.io/@jagadeshanh/build-nested-commenting-system-using-laravel-and-vuejs-part-2) :uk: :notebook:
 * [Scotch - Build Nested Comment App With Vue JS and Laravel - Part 3](https://pub.scotch.io/@jagadeshanh/build-nested-commenting-system-using-laravel-and-vuejs-part-3) :uk: :notebook:
 * [Scotch - How to Create a Comment System with Laravel 5.3 and Vue JS](https://pub.scotch.io/@tomiiide/how-to-create-a-comment-system-with-laravel-53-and-vuejs) :uk: :notebook:
+* [Medium - Build Simple Todo App with Vue JS and Vuex](https://medium.com/@paadams/build-a-simple-todo-app-with-vue-js-1778ae175514) :uk: :notebook:
+* [Skyronic - Vuex Basic Tutorial](https://skyronic.com/2016/01/03/vuex-basics-tutorial) :uk: :notebook:
+* [Composing D3 Visualizations with Vue JS](https://tyronetudehope.com/2016/12/13/composing-d3-visualizations-with-vuejs/) :uk: :notebook:
 * [Auth0 - Create an App in Vue JS 2](https://auth0.com/blog/create-an-app-in-vuejs-2/) :uk: :notebook:
 * [Medium - Vue JS Pokemon Battle](https://medium.com/@michaelmangial1/vue-js-pokemon-battle-tutorial-380cd72eb681#.zbtiw9e5c) :uk: :notebook:
 * [Image Slider VueJS Tutorial](http://matthiashager.com/blog/image-slider-vuejs-tutorial) :uk::notebook:
