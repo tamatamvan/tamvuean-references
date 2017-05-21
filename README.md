@@ -16,6 +16,8 @@ My personal collections of various references for learning VueJS. TamVuean Refer
 * [Vue JS Newsletter](https://www.getrevue.co/profile/vuenewsletter) :uk:
 * [Vue Newsletter](http://vue-newsletter.com/) :uk:
 * [VueJS Examples](http://vuejsexamples.com/) :uk:
+* [Alligator.io - Posts About Vue.js](https://alligator.io/vuejs/) :uk:
+* [VueJSDevelopers](http://vuejsdevelopers.com/) :uk:
 
 ## Social Forums & Communities 
 * [Facebook - Vue JS Developers](https://web.facebook.com/groups/vuejsdevelopers/)
