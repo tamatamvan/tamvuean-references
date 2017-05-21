@@ -73,3 +73,14 @@ My personal collections of various references for learning VueJS. TamVuean Refer
 * [4 Things Vue JS got right](https://medium.com/js-dojo/4-things-vue-js-got-right-10820cc84004#.1lyr3mu12) :uk:
 * [Evan You's Comment on 'React or Vue' Articles](https://medium.com/@youyuxi/pretty-good-comparison-overall-but-a-few-points-id-like-to-discuss-e4f6460e75d5#.l1ahbm417) :uk:
 * [Vue in 2016](https://medium.com/the-vue-point/vue-in-2016-8df71d98bfb3#.29ghawgon) :uk:
+
+## Weex
+
+> Weex is a framework for building Mobile cross-platform high performance UI. Developers can write *.vue files to build native pages or an App. This page will help you write a Weex page in 2 minutes.
+
+* [Weex Home Page](http://weex-project.io/) :uk:
+* [Weex Getting Started Guide](http://weex-project.io/guide/) :uk:
+* [Introducing Vue and Weex for Native Mobile Apps](https://code.tutsplus.com/tutorials/introducing-vue-and-weex-for-native-mobile-apps--cms-28782) :uk:
+* [Hackernoon - Native Mobile Apps with Weex and VueJS 2.0](https://hackernoon.com/how-to-create-a-weex-vue2-project-6b94981bee4e) :uk:
+* [Medium - The State of Weex: an inaccurate and outdated report by Tiago Alves](https://medium.com/@tiagoreisalves/the-state-of-weex-an-inaccurate-and-outdated-report-fae2c6e5fc2e) :uk
+
