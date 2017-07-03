@@ -53,6 +53,7 @@ My personal collections of various references for learning VueJS. TamVuean Refer
 
 ## Articles and other reading materials :books:
 * [GitLab - Why We Chose Vue](https://about.gitlab.com/2016/10/20/why-we-chose-vue/) :uk:
+* [Gitlab at VueConf 2017](https://about.gitlab.com/2017/06/29/gitlab-at-vue-conf/) :uk:
 * [VueJS - Thought Works - Tech Radar](https://www.thoughtworks.com/radar/languages-and-frameworks/vue-js) :uk:
 * [Pixeljets - Why We Chose VueJS Over React](http://pixeljets.com/blog/why-we-chose-vuejs-over-react/) :uk:
 * [Vincit Blog - First Impression on VueJS](https://www.vincit.fi/en/blog/first-impressions-vue-js-2-0/) :uk:
